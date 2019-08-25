@@ -1,0 +1,11 @@
+/Users/admin/Desktop/Tech/unit-6/UnderstandingScope/UnderstandingScope/obj/Debug/netcoreapp2.2/UnderstandingScope.csprojAssemblyReference.cache
+/Users/admin/Desktop/Tech/unit-6/UnderstandingScope/UnderstandingScope/obj/Debug/netcoreapp2.2/UnderstandingScope.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/Tech/unit-6/UnderstandingScope/UnderstandingScope/obj/Debug/netcoreapp2.2/UnderstandingScope.AssemblyInfoInputs.cache
+/Users/admin/Desktop/Tech/unit-6/UnderstandingScope/UnderstandingScope/obj/Debug/netcoreapp2.2/UnderstandingScope.AssemblyInfo.cs
+/Users/admin/Desktop/Tech/unit-6/UnderstandingScope/UnderstandingScope/bin/Debug/netcoreapp2.2/UnderstandingScope.deps.json
+/Users/admin/Desktop/Tech/unit-6/UnderstandingScope/UnderstandingScope/bin/Debug/netcoreapp2.2/UnderstandingScope.runtimeconfig.json
+/Users/admin/Desktop/Tech/unit-6/UnderstandingScope/UnderstandingScope/bin/Debug/netcoreapp2.2/UnderstandingScope.runtimeconfig.dev.json
+/Users/admin/Desktop/Tech/unit-6/UnderstandingScope/UnderstandingScope/bin/Debug/netcoreapp2.2/UnderstandingScope.dll
+/Users/admin/Desktop/Tech/unit-6/UnderstandingScope/UnderstandingScope/bin/Debug/netcoreapp2.2/UnderstandingScope.pdb
+/Users/admin/Desktop/Tech/unit-6/UnderstandingScope/UnderstandingScope/obj/Debug/netcoreapp2.2/UnderstandingScope.dll
+/Users/admin/Desktop/Tech/unit-6/UnderstandingScope/UnderstandingScope/obj/Debug/netcoreapp2.2/UnderstandingScope.pdb
