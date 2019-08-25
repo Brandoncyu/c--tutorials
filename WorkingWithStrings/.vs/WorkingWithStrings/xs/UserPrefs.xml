@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{EA8CD518-F77F-4E69-97D0-4FFFDBBB0EC5}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="WorkingWithStrings/Program.cs">
     <Files>
-      <File FileName="WorkingWithStrings/Program.cs" Line="9" Column="21" />
+      <File FileName="WorkingWithStrings/Program.cs" Line="55" Column="34" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -15,7 +15,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.WorkingWithStrings FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.WorkingWithStrings PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
