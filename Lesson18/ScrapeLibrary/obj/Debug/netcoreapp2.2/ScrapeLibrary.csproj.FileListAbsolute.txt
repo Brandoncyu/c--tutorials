@@ -1,0 +1,9 @@
+/Users/admin/Desktop/Tech/unit-6/Lesson18/ScrapeLibrary/obj/Debug/netcoreapp2.2/ScrapeLibrary.csprojAssemblyReference.cache
+/Users/admin/Desktop/Tech/unit-6/Lesson18/ScrapeLibrary/obj/Debug/netcoreapp2.2/ScrapeLibrary.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/Tech/unit-6/Lesson18/ScrapeLibrary/obj/Debug/netcoreapp2.2/ScrapeLibrary.AssemblyInfoInputs.cache
+/Users/admin/Desktop/Tech/unit-6/Lesson18/ScrapeLibrary/obj/Debug/netcoreapp2.2/ScrapeLibrary.AssemblyInfo.cs
+/Users/admin/Desktop/Tech/unit-6/Lesson18/ScrapeLibrary/bin/Debug/netcoreapp2.2/ScrapeLibrary.deps.json
+/Users/admin/Desktop/Tech/unit-6/Lesson18/ScrapeLibrary/bin/Debug/netcoreapp2.2/ScrapeLibrary.dll
+/Users/admin/Desktop/Tech/unit-6/Lesson18/ScrapeLibrary/bin/Debug/netcoreapp2.2/ScrapeLibrary.pdb
+/Users/admin/Desktop/Tech/unit-6/Lesson18/ScrapeLibrary/obj/Debug/netcoreapp2.2/ScrapeLibrary.dll
+/Users/admin/Desktop/Tech/unit-6/Lesson18/ScrapeLibrary/obj/Debug/netcoreapp2.2/ScrapeLibrary.pdb

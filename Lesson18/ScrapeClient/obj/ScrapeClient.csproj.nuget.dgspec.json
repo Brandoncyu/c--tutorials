@@ -1,0 +1,112 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/admin/Desktop/Tech/unit-6/Lesson18/ScrapeClient/ScrapeClient.csproj": {}
+  },
+  "projects": {
+    "/Users/admin/Desktop/Tech/unit-6/Lesson18/ScrapeClient/ScrapeClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/admin/Desktop/Tech/unit-6/Lesson18/ScrapeClient/ScrapeClient.csproj",
+        "projectName": "ScrapeClient",
+        "projectPath": "/Users/admin/Desktop/Tech/unit-6/Lesson18/ScrapeClient/ScrapeClient.csproj",
+        "packagesPath": "/Users/admin/.nuget/packages/",
+        "outputPath": "/Users/admin/Desktop/Tech/unit-6/Lesson18/ScrapeClient/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/admin/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "/Users/admin/Desktop/Tech/unit-6/Lesson18/ScrapeLibrary/ScrapeLibrary.csproj": {
+                "projectPath": "/Users/admin/Desktop/Tech/unit-6/Lesson18/ScrapeLibrary/ScrapeLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/Users/admin/Desktop/Tech/unit-6/Lesson18/ScrapeLibrary/ScrapeLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/admin/Desktop/Tech/unit-6/Lesson18/ScrapeLibrary/ScrapeLibrary.csproj",
+        "projectName": "ScrapeLibrary",
+        "projectPath": "/Users/admin/Desktop/Tech/unit-6/Lesson18/ScrapeLibrary/ScrapeLibrary.csproj",
+        "packagesPath": "/Users/admin/.nuget/packages/",
+        "outputPath": "/Users/admin/Desktop/Tech/unit-6/Lesson18/ScrapeLibrary/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/admin/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

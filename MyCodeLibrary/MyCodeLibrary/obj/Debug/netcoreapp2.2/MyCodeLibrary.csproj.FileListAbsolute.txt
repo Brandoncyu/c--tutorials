@@ -1,0 +1,9 @@
+/Users/admin/Desktop/Tech/unit-6/MyCodeLibrary/MyCodeLibrary/bin/Debug/netcoreapp2.2/MyCodeLibrary.deps.json
+/Users/admin/Desktop/Tech/unit-6/MyCodeLibrary/MyCodeLibrary/bin/Debug/netcoreapp2.2/MyCodeLibrary.dll
+/Users/admin/Desktop/Tech/unit-6/MyCodeLibrary/MyCodeLibrary/bin/Debug/netcoreapp2.2/MyCodeLibrary.pdb
+/Users/admin/Desktop/Tech/unit-6/MyCodeLibrary/MyCodeLibrary/obj/Debug/netcoreapp2.2/MyCodeLibrary.csprojAssemblyReference.cache
+/Users/admin/Desktop/Tech/unit-6/MyCodeLibrary/MyCodeLibrary/obj/Debug/netcoreapp2.2/MyCodeLibrary.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/Tech/unit-6/MyCodeLibrary/MyCodeLibrary/obj/Debug/netcoreapp2.2/MyCodeLibrary.AssemblyInfoInputs.cache
+/Users/admin/Desktop/Tech/unit-6/MyCodeLibrary/MyCodeLibrary/obj/Debug/netcoreapp2.2/MyCodeLibrary.AssemblyInfo.cs
+/Users/admin/Desktop/Tech/unit-6/MyCodeLibrary/MyCodeLibrary/obj/Debug/netcoreapp2.2/MyCodeLibrary.dll
+/Users/admin/Desktop/Tech/unit-6/MyCodeLibrary/MyCodeLibrary/obj/Debug/netcoreapp2.2/MyCodeLibrary.pdb

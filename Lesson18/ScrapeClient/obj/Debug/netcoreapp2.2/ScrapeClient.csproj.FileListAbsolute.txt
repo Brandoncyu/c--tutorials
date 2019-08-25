@@ -1,0 +1,14 @@
+/Users/admin/Desktop/Tech/unit-6/Lesson18/ScrapeClient/bin/Debug/netcoreapp2.2/ScrapeClient.deps.json
+/Users/admin/Desktop/Tech/unit-6/Lesson18/ScrapeClient/bin/Debug/netcoreapp2.2/ScrapeClient.runtimeconfig.json
+/Users/admin/Desktop/Tech/unit-6/Lesson18/ScrapeClient/bin/Debug/netcoreapp2.2/ScrapeClient.runtimeconfig.dev.json
+/Users/admin/Desktop/Tech/unit-6/Lesson18/ScrapeClient/bin/Debug/netcoreapp2.2/ScrapeClient.dll
+/Users/admin/Desktop/Tech/unit-6/Lesson18/ScrapeClient/bin/Debug/netcoreapp2.2/ScrapeClient.pdb
+/Users/admin/Desktop/Tech/unit-6/Lesson18/ScrapeClient/obj/Debug/netcoreapp2.2/ScrapeClient.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/Tech/unit-6/Lesson18/ScrapeClient/obj/Debug/netcoreapp2.2/ScrapeClient.AssemblyInfoInputs.cache
+/Users/admin/Desktop/Tech/unit-6/Lesson18/ScrapeClient/obj/Debug/netcoreapp2.2/ScrapeClient.AssemblyInfo.cs
+/Users/admin/Desktop/Tech/unit-6/Lesson18/ScrapeClient/obj/Debug/netcoreapp2.2/ScrapeClient.dll
+/Users/admin/Desktop/Tech/unit-6/Lesson18/ScrapeClient/obj/Debug/netcoreapp2.2/ScrapeClient.pdb
+/Users/admin/Desktop/Tech/unit-6/Lesson18/ScrapeClient/bin/Debug/netcoreapp2.2/ScrapeLibrary.dll
+/Users/admin/Desktop/Tech/unit-6/Lesson18/ScrapeClient/bin/Debug/netcoreapp2.2/ScrapeLibrary.pdb
+/Users/admin/Desktop/Tech/unit-6/Lesson18/ScrapeClient/obj/Debug/netcoreapp2.2/ScrapeClient.csprojAssemblyReference.cache
+/Users/admin/Desktop/Tech/unit-6/Lesson18/ScrapeClient/obj/Debug/netcoreapp2.2/ScrapeClient.csproj.CopyComplete
