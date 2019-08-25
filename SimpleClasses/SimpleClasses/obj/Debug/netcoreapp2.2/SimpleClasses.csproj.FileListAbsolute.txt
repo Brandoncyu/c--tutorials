@@ -1,0 +1,11 @@
+/Users/admin/Desktop/Tech/unit-6/SimpleClasses/SimpleClasses/obj/Debug/netcoreapp2.2/SimpleClasses.csprojAssemblyReference.cache
+/Users/admin/Desktop/Tech/unit-6/SimpleClasses/SimpleClasses/obj/Debug/netcoreapp2.2/SimpleClasses.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/Tech/unit-6/SimpleClasses/SimpleClasses/obj/Debug/netcoreapp2.2/SimpleClasses.AssemblyInfoInputs.cache
+/Users/admin/Desktop/Tech/unit-6/SimpleClasses/SimpleClasses/obj/Debug/netcoreapp2.2/SimpleClasses.AssemblyInfo.cs
+/Users/admin/Desktop/Tech/unit-6/SimpleClasses/SimpleClasses/bin/Debug/netcoreapp2.2/SimpleClasses.deps.json
+/Users/admin/Desktop/Tech/unit-6/SimpleClasses/SimpleClasses/bin/Debug/netcoreapp2.2/SimpleClasses.runtimeconfig.json
+/Users/admin/Desktop/Tech/unit-6/SimpleClasses/SimpleClasses/bin/Debug/netcoreapp2.2/SimpleClasses.runtimeconfig.dev.json
+/Users/admin/Desktop/Tech/unit-6/SimpleClasses/SimpleClasses/bin/Debug/netcoreapp2.2/SimpleClasses.dll
+/Users/admin/Desktop/Tech/unit-6/SimpleClasses/SimpleClasses/bin/Debug/netcoreapp2.2/SimpleClasses.pdb
+/Users/admin/Desktop/Tech/unit-6/SimpleClasses/SimpleClasses/obj/Debug/netcoreapp2.2/SimpleClasses.dll
+/Users/admin/Desktop/Tech/unit-6/SimpleClasses/SimpleClasses/obj/Debug/netcoreapp2.2/SimpleClasses.pdb
