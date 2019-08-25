@@ -1,0 +1,11 @@
+/Users/admin/Desktop/Tech/unit-6/HelperMethods/HelperMethods/obj/Debug/netcoreapp2.2/HelperMethods.csprojAssemblyReference.cache
+/Users/admin/Desktop/Tech/unit-6/HelperMethods/HelperMethods/obj/Debug/netcoreapp2.2/HelperMethods.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/Tech/unit-6/HelperMethods/HelperMethods/obj/Debug/netcoreapp2.2/HelperMethods.AssemblyInfoInputs.cache
+/Users/admin/Desktop/Tech/unit-6/HelperMethods/HelperMethods/obj/Debug/netcoreapp2.2/HelperMethods.AssemblyInfo.cs
+/Users/admin/Desktop/Tech/unit-6/HelperMethods/HelperMethods/bin/Debug/netcoreapp2.2/HelperMethods.deps.json
+/Users/admin/Desktop/Tech/unit-6/HelperMethods/HelperMethods/bin/Debug/netcoreapp2.2/HelperMethods.runtimeconfig.json
+/Users/admin/Desktop/Tech/unit-6/HelperMethods/HelperMethods/bin/Debug/netcoreapp2.2/HelperMethods.runtimeconfig.dev.json
+/Users/admin/Desktop/Tech/unit-6/HelperMethods/HelperMethods/bin/Debug/netcoreapp2.2/HelperMethods.dll
+/Users/admin/Desktop/Tech/unit-6/HelperMethods/HelperMethods/bin/Debug/netcoreapp2.2/HelperMethods.pdb
+/Users/admin/Desktop/Tech/unit-6/HelperMethods/HelperMethods/obj/Debug/netcoreapp2.2/HelperMethods.dll
+/Users/admin/Desktop/Tech/unit-6/HelperMethods/HelperMethods/obj/Debug/netcoreapp2.2/HelperMethods.pdb

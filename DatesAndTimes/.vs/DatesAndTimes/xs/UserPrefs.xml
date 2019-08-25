@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{B036E02C-E5CF-4727-BBB2-E9EC85A224D3}|Default">
+  <MonoDevelop.Ide.ItemProperties.DatesAndTimes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DatesAndTimes/Program.cs">
+    <Files>
+      <File FileName="DatesAndTimes/Program.cs" Line="33" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DatesAndTimes" expanded="True">
+            <Node name="DatesAndTimes" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

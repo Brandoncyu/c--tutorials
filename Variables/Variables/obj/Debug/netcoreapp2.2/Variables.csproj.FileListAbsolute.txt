@@ -1,0 +1,11 @@
+/Users/admin/Desktop/Tech/unit-7/Variables/Variables/bin/Debug/netcoreapp2.2/Variables.deps.json
+/Users/admin/Desktop/Tech/unit-7/Variables/Variables/bin/Debug/netcoreapp2.2/Variables.runtimeconfig.json
+/Users/admin/Desktop/Tech/unit-7/Variables/Variables/bin/Debug/netcoreapp2.2/Variables.runtimeconfig.dev.json
+/Users/admin/Desktop/Tech/unit-7/Variables/Variables/bin/Debug/netcoreapp2.2/Variables.dll
+/Users/admin/Desktop/Tech/unit-7/Variables/Variables/bin/Debug/netcoreapp2.2/Variables.pdb
+/Users/admin/Desktop/Tech/unit-7/Variables/Variables/obj/Debug/netcoreapp2.2/Variables.csprojAssemblyReference.cache
+/Users/admin/Desktop/Tech/unit-7/Variables/Variables/obj/Debug/netcoreapp2.2/Variables.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/Tech/unit-7/Variables/Variables/obj/Debug/netcoreapp2.2/Variables.AssemblyInfoInputs.cache
+/Users/admin/Desktop/Tech/unit-7/Variables/Variables/obj/Debug/netcoreapp2.2/Variables.AssemblyInfo.cs
+/Users/admin/Desktop/Tech/unit-7/Variables/Variables/obj/Debug/netcoreapp2.2/Variables.dll
+/Users/admin/Desktop/Tech/unit-7/Variables/Variables/obj/Debug/netcoreapp2.2/Variables.pdb

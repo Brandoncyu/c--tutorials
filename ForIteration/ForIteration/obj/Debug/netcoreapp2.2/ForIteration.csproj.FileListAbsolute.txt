@@ -1,0 +1,11 @@
+/Users/admin/Desktop/Tech/unit-7/ForIteration/ForIteration/bin/Debug/netcoreapp2.2/ForIteration.deps.json
+/Users/admin/Desktop/Tech/unit-7/ForIteration/ForIteration/bin/Debug/netcoreapp2.2/ForIteration.runtimeconfig.json
+/Users/admin/Desktop/Tech/unit-7/ForIteration/ForIteration/bin/Debug/netcoreapp2.2/ForIteration.runtimeconfig.dev.json
+/Users/admin/Desktop/Tech/unit-7/ForIteration/ForIteration/bin/Debug/netcoreapp2.2/ForIteration.dll
+/Users/admin/Desktop/Tech/unit-7/ForIteration/ForIteration/bin/Debug/netcoreapp2.2/ForIteration.pdb
+/Users/admin/Desktop/Tech/unit-7/ForIteration/ForIteration/obj/Debug/netcoreapp2.2/ForIteration.csprojAssemblyReference.cache
+/Users/admin/Desktop/Tech/unit-7/ForIteration/ForIteration/obj/Debug/netcoreapp2.2/ForIteration.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/Tech/unit-7/ForIteration/ForIteration/obj/Debug/netcoreapp2.2/ForIteration.AssemblyInfoInputs.cache
+/Users/admin/Desktop/Tech/unit-7/ForIteration/ForIteration/obj/Debug/netcoreapp2.2/ForIteration.AssemblyInfo.cs
+/Users/admin/Desktop/Tech/unit-7/ForIteration/ForIteration/obj/Debug/netcoreapp2.2/ForIteration.dll
+/Users/admin/Desktop/Tech/unit-7/ForIteration/ForIteration/obj/Debug/netcoreapp2.2/ForIteration.pdb

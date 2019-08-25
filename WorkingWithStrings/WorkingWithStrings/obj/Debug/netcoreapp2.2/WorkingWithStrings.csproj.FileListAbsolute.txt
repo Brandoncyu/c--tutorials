@@ -1,0 +1,11 @@
+/Users/admin/Desktop/Tech/unit-6/WorkingWithStrings/WorkingWithStrings/obj/Debug/netcoreapp2.2/WorkingWithStrings.csprojAssemblyReference.cache
+/Users/admin/Desktop/Tech/unit-6/WorkingWithStrings/WorkingWithStrings/obj/Debug/netcoreapp2.2/WorkingWithStrings.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/Tech/unit-6/WorkingWithStrings/WorkingWithStrings/obj/Debug/netcoreapp2.2/WorkingWithStrings.AssemblyInfoInputs.cache
+/Users/admin/Desktop/Tech/unit-6/WorkingWithStrings/WorkingWithStrings/obj/Debug/netcoreapp2.2/WorkingWithStrings.AssemblyInfo.cs
+/Users/admin/Desktop/Tech/unit-6/WorkingWithStrings/WorkingWithStrings/bin/Debug/netcoreapp2.2/WorkingWithStrings.deps.json
+/Users/admin/Desktop/Tech/unit-6/WorkingWithStrings/WorkingWithStrings/bin/Debug/netcoreapp2.2/WorkingWithStrings.runtimeconfig.json
+/Users/admin/Desktop/Tech/unit-6/WorkingWithStrings/WorkingWithStrings/bin/Debug/netcoreapp2.2/WorkingWithStrings.runtimeconfig.dev.json
+/Users/admin/Desktop/Tech/unit-6/WorkingWithStrings/WorkingWithStrings/bin/Debug/netcoreapp2.2/WorkingWithStrings.dll
+/Users/admin/Desktop/Tech/unit-6/WorkingWithStrings/WorkingWithStrings/bin/Debug/netcoreapp2.2/WorkingWithStrings.pdb
+/Users/admin/Desktop/Tech/unit-6/WorkingWithStrings/WorkingWithStrings/obj/Debug/netcoreapp2.2/WorkingWithStrings.dll
+/Users/admin/Desktop/Tech/unit-6/WorkingWithStrings/WorkingWithStrings/obj/Debug/netcoreapp2.2/WorkingWithStrings.pdb

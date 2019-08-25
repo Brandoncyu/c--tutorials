@@ -1,0 +1,11 @@
+/Users/admin/Desktop/Tech/unit-6/SimpleMethod/SimpleMethod/obj/Debug/netcoreapp2.2/SimpleMethod.csprojAssemblyReference.cache
+/Users/admin/Desktop/Tech/unit-6/SimpleMethod/SimpleMethod/obj/Debug/netcoreapp2.2/SimpleMethod.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/Tech/unit-6/SimpleMethod/SimpleMethod/obj/Debug/netcoreapp2.2/SimpleMethod.AssemblyInfoInputs.cache
+/Users/admin/Desktop/Tech/unit-6/SimpleMethod/SimpleMethod/obj/Debug/netcoreapp2.2/SimpleMethod.AssemblyInfo.cs
+/Users/admin/Desktop/Tech/unit-6/SimpleMethod/SimpleMethod/bin/Debug/netcoreapp2.2/SimpleMethod.deps.json
+/Users/admin/Desktop/Tech/unit-6/SimpleMethod/SimpleMethod/bin/Debug/netcoreapp2.2/SimpleMethod.runtimeconfig.json
+/Users/admin/Desktop/Tech/unit-6/SimpleMethod/SimpleMethod/bin/Debug/netcoreapp2.2/SimpleMethod.runtimeconfig.dev.json
+/Users/admin/Desktop/Tech/unit-6/SimpleMethod/SimpleMethod/bin/Debug/netcoreapp2.2/SimpleMethod.dll
+/Users/admin/Desktop/Tech/unit-6/SimpleMethod/SimpleMethod/bin/Debug/netcoreapp2.2/SimpleMethod.pdb
+/Users/admin/Desktop/Tech/unit-6/SimpleMethod/SimpleMethod/obj/Debug/netcoreapp2.2/SimpleMethod.dll
+/Users/admin/Desktop/Tech/unit-6/SimpleMethod/SimpleMethod/obj/Debug/netcoreapp2.2/SimpleMethod.pdb

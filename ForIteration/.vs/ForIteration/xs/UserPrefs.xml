@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{FCCE0F9F-A491-46D1-8766-19BC8F0C1869}|Default">
+  <MonoDevelop.Ide.ItemProperties.ForIteration PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ForIteration/Program.cs">
+    <Files>
+      <File FileName="ForIteration/Program.cs" Line="21" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ForIteration" expanded="True">
+            <Node name="ForIteration" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../ForIteration/Program.cs" line="10" offsetX="-1" offsetY="-1" expression="i" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

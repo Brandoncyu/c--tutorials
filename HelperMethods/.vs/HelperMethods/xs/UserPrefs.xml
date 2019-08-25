@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{588E5E5D-A32F-4B77-AD46-72E1F75857ED}|Default">
+  <MonoDevelop.Ide.ItemProperties.HelperMethods PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelperMethods/Program.cs">
+    <Files>
+      <File FileName="HelperMethods/Program.cs" Line="61" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HelperMethods" expanded="True">
+            <Node name="HelperMethods" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

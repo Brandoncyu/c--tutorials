@@ -1,0 +1,11 @@
+/Users/admin/Desktop/Tech/unit-6/WhiteIteration/WhiteIteration/bin/Debug/netcoreapp2.2/WhiteIteration.deps.json
+/Users/admin/Desktop/Tech/unit-6/WhiteIteration/WhiteIteration/bin/Debug/netcoreapp2.2/WhiteIteration.runtimeconfig.json
+/Users/admin/Desktop/Tech/unit-6/WhiteIteration/WhiteIteration/bin/Debug/netcoreapp2.2/WhiteIteration.runtimeconfig.dev.json
+/Users/admin/Desktop/Tech/unit-6/WhiteIteration/WhiteIteration/bin/Debug/netcoreapp2.2/WhiteIteration.dll
+/Users/admin/Desktop/Tech/unit-6/WhiteIteration/WhiteIteration/bin/Debug/netcoreapp2.2/WhiteIteration.pdb
+/Users/admin/Desktop/Tech/unit-6/WhiteIteration/WhiteIteration/obj/Debug/netcoreapp2.2/WhiteIteration.csprojAssemblyReference.cache
+/Users/admin/Desktop/Tech/unit-6/WhiteIteration/WhiteIteration/obj/Debug/netcoreapp2.2/WhiteIteration.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/Tech/unit-6/WhiteIteration/WhiteIteration/obj/Debug/netcoreapp2.2/WhiteIteration.AssemblyInfoInputs.cache
+/Users/admin/Desktop/Tech/unit-6/WhiteIteration/WhiteIteration/obj/Debug/netcoreapp2.2/WhiteIteration.AssemblyInfo.cs
+/Users/admin/Desktop/Tech/unit-6/WhiteIteration/WhiteIteration/obj/Debug/netcoreapp2.2/WhiteIteration.dll
+/Users/admin/Desktop/Tech/unit-6/WhiteIteration/WhiteIteration/obj/Debug/netcoreapp2.2/WhiteIteration.pdb

@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleMethod", "SimpleMethod\SimpleMethod.csproj", "{E990D9B9-8CCF-4AA4-982F-78074D1C6159}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E990D9B9-8CCF-4AA4-982F-78074D1C6159}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E990D9B9-8CCF-4AA4-982F-78074D1C6159}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E990D9B9-8CCF-4AA4-982F-78074D1C6159}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E990D9B9-8CCF-4AA4-982F-78074D1C6159}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

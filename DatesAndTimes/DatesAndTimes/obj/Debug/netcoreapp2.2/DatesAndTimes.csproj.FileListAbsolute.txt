@@ -1,0 +1,11 @@
+/Users/admin/Desktop/Tech/unit-6/DatesAndTimes/DatesAndTimes/obj/Debug/netcoreapp2.2/DatesAndTimes.csprojAssemblyReference.cache
+/Users/admin/Desktop/Tech/unit-6/DatesAndTimes/DatesAndTimes/obj/Debug/netcoreapp2.2/DatesAndTimes.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/Tech/unit-6/DatesAndTimes/DatesAndTimes/obj/Debug/netcoreapp2.2/DatesAndTimes.AssemblyInfoInputs.cache
+/Users/admin/Desktop/Tech/unit-6/DatesAndTimes/DatesAndTimes/obj/Debug/netcoreapp2.2/DatesAndTimes.AssemblyInfo.cs
+/Users/admin/Desktop/Tech/unit-6/DatesAndTimes/DatesAndTimes/bin/Debug/netcoreapp2.2/DatesAndTimes.deps.json
+/Users/admin/Desktop/Tech/unit-6/DatesAndTimes/DatesAndTimes/bin/Debug/netcoreapp2.2/DatesAndTimes.runtimeconfig.json
+/Users/admin/Desktop/Tech/unit-6/DatesAndTimes/DatesAndTimes/bin/Debug/netcoreapp2.2/DatesAndTimes.runtimeconfig.dev.json
+/Users/admin/Desktop/Tech/unit-6/DatesAndTimes/DatesAndTimes/bin/Debug/netcoreapp2.2/DatesAndTimes.dll
+/Users/admin/Desktop/Tech/unit-6/DatesAndTimes/DatesAndTimes/bin/Debug/netcoreapp2.2/DatesAndTimes.pdb
+/Users/admin/Desktop/Tech/unit-6/DatesAndTimes/DatesAndTimes/obj/Debug/netcoreapp2.2/DatesAndTimes.dll
+/Users/admin/Desktop/Tech/unit-6/DatesAndTimes/DatesAndTimes/obj/Debug/netcoreapp2.2/DatesAndTimes.pdb

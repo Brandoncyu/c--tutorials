@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{95375F66-8F37-4A9B-AFB2-BB02FAF94880}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WhiteIteration/Program.cs">
+    <Files>
+      <File FileName="WhiteIteration/Program.cs" Line="79" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WhiteIteration" expanded="True">
+            <Node name="WhiteIteration" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.WhiteIteration PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

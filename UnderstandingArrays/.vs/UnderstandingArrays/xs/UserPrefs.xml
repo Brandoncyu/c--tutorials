@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{E7E6C2D4-21BE-4041-9000-A896A3688880}|Default">
+  <MonoDevelop.Ide.ItemProperties.UnderstandingArrays PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="UnderstandingArrays/Program.cs">
+    <Files>
+      <File FileName="UnderstandingArrays/Program.cs" Line="67" Column="70" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UnderstandingArrays" expanded="True">
+            <Node name="UnderstandingArrays" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

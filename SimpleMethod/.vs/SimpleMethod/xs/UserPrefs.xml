@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{E990D9B9-8CCF-4AA4-982F-78074D1C6159}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SimpleMethod/Program.cs">
+    <Files>
+      <File FileName="SimpleMethod/Program.cs" Line="15" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SimpleMethod" expanded="True">
+            <Node name="SimpleMethod" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SimpleMethod PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

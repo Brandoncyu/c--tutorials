@@ -1,0 +1,11 @@
+/Users/admin/Desktop/Tech/unit-6/UnderstandingArrays/UnderstandingArrays/obj/Debug/netcoreapp2.2/UnderstandingArrays.csprojAssemblyReference.cache
+/Users/admin/Desktop/Tech/unit-6/UnderstandingArrays/UnderstandingArrays/obj/Debug/netcoreapp2.2/UnderstandingArrays.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/Tech/unit-6/UnderstandingArrays/UnderstandingArrays/obj/Debug/netcoreapp2.2/UnderstandingArrays.AssemblyInfoInputs.cache
+/Users/admin/Desktop/Tech/unit-6/UnderstandingArrays/UnderstandingArrays/obj/Debug/netcoreapp2.2/UnderstandingArrays.AssemblyInfo.cs
+/Users/admin/Desktop/Tech/unit-6/UnderstandingArrays/UnderstandingArrays/bin/Debug/netcoreapp2.2/UnderstandingArrays.deps.json
+/Users/admin/Desktop/Tech/unit-6/UnderstandingArrays/UnderstandingArrays/bin/Debug/netcoreapp2.2/UnderstandingArrays.runtimeconfig.json
+/Users/admin/Desktop/Tech/unit-6/UnderstandingArrays/UnderstandingArrays/bin/Debug/netcoreapp2.2/UnderstandingArrays.runtimeconfig.dev.json
+/Users/admin/Desktop/Tech/unit-6/UnderstandingArrays/UnderstandingArrays/bin/Debug/netcoreapp2.2/UnderstandingArrays.dll
+/Users/admin/Desktop/Tech/unit-6/UnderstandingArrays/UnderstandingArrays/bin/Debug/netcoreapp2.2/UnderstandingArrays.pdb
+/Users/admin/Desktop/Tech/unit-6/UnderstandingArrays/UnderstandingArrays/obj/Debug/netcoreapp2.2/UnderstandingArrays.dll
+/Users/admin/Desktop/Tech/unit-6/UnderstandingArrays/UnderstandingArrays/obj/Debug/netcoreapp2.2/UnderstandingArrays.pdb

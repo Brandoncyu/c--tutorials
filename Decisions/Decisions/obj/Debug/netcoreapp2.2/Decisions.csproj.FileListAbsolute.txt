@@ -1,0 +1,11 @@
+/Users/admin/Desktop/Tech/unit-7/Decisions/Decisions/bin/Debug/netcoreapp2.2/Decisions.deps.json
+/Users/admin/Desktop/Tech/unit-7/Decisions/Decisions/bin/Debug/netcoreapp2.2/Decisions.runtimeconfig.json
+/Users/admin/Desktop/Tech/unit-7/Decisions/Decisions/bin/Debug/netcoreapp2.2/Decisions.runtimeconfig.dev.json
+/Users/admin/Desktop/Tech/unit-7/Decisions/Decisions/bin/Debug/netcoreapp2.2/Decisions.dll
+/Users/admin/Desktop/Tech/unit-7/Decisions/Decisions/bin/Debug/netcoreapp2.2/Decisions.pdb
+/Users/admin/Desktop/Tech/unit-7/Decisions/Decisions/obj/Debug/netcoreapp2.2/Decisions.csprojAssemblyReference.cache
+/Users/admin/Desktop/Tech/unit-7/Decisions/Decisions/obj/Debug/netcoreapp2.2/Decisions.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/Tech/unit-7/Decisions/Decisions/obj/Debug/netcoreapp2.2/Decisions.AssemblyInfoInputs.cache
+/Users/admin/Desktop/Tech/unit-7/Decisions/Decisions/obj/Debug/netcoreapp2.2/Decisions.AssemblyInfo.cs
+/Users/admin/Desktop/Tech/unit-7/Decisions/Decisions/obj/Debug/netcoreapp2.2/Decisions.dll
+/Users/admin/Desktop/Tech/unit-7/Decisions/Decisions/obj/Debug/netcoreapp2.2/Decisions.pdb
