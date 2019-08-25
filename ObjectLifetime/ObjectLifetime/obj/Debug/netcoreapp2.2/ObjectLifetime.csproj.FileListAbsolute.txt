@@ -1,0 +1,11 @@
+/Users/admin/Desktop/Tech/unit-6/ObjectLifetime/ObjectLifetime/obj/Debug/netcoreapp2.2/ObjectLifetime.csprojAssemblyReference.cache
+/Users/admin/Desktop/Tech/unit-6/ObjectLifetime/ObjectLifetime/obj/Debug/netcoreapp2.2/ObjectLifetime.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/Tech/unit-6/ObjectLifetime/ObjectLifetime/obj/Debug/netcoreapp2.2/ObjectLifetime.AssemblyInfoInputs.cache
+/Users/admin/Desktop/Tech/unit-6/ObjectLifetime/ObjectLifetime/obj/Debug/netcoreapp2.2/ObjectLifetime.AssemblyInfo.cs
+/Users/admin/Desktop/Tech/unit-6/ObjectLifetime/ObjectLifetime/bin/Debug/netcoreapp2.2/ObjectLifetime.deps.json
+/Users/admin/Desktop/Tech/unit-6/ObjectLifetime/ObjectLifetime/bin/Debug/netcoreapp2.2/ObjectLifetime.runtimeconfig.json
+/Users/admin/Desktop/Tech/unit-6/ObjectLifetime/ObjectLifetime/bin/Debug/netcoreapp2.2/ObjectLifetime.runtimeconfig.dev.json
+/Users/admin/Desktop/Tech/unit-6/ObjectLifetime/ObjectLifetime/bin/Debug/netcoreapp2.2/ObjectLifetime.dll
+/Users/admin/Desktop/Tech/unit-6/ObjectLifetime/ObjectLifetime/bin/Debug/netcoreapp2.2/ObjectLifetime.pdb
+/Users/admin/Desktop/Tech/unit-6/ObjectLifetime/ObjectLifetime/obj/Debug/netcoreapp2.2/ObjectLifetime.dll
+/Users/admin/Desktop/Tech/unit-6/ObjectLifetime/ObjectLifetime/obj/Debug/netcoreapp2.2/ObjectLifetime.pdb

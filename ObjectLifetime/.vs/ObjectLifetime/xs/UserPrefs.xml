@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{EC9BF15E-94C7-4E20-83DA-872456E245B7}|Default">
+  <MonoDevelop.Ide.ItemProperties.ObjectLifetime PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ObjectLifetime/Program.cs">
+    <Files>
+      <File FileName="ObjectLifetime/Program.cs" Line="81" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ObjectLifetime" expanded="True">
+            <Node name="ObjectLifetime" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
