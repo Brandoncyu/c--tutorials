@@ -20,6 +20,7 @@ namespace WorkingWithStrings
             //Currency
             //string myString = string.Format("{0:C}", 123.45);
 
+
             Console.WriteLine(myString);
             Console.ReadLine();
         }
