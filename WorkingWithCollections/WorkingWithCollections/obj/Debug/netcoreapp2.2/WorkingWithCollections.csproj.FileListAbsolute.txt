@@ -1,0 +1,11 @@
+/Users/admin/Desktop/Tech/unit-6/WorkingWithCollections/WorkingWithCollections/bin/Debug/netcoreapp2.2/WorkingWithCollections.deps.json
+/Users/admin/Desktop/Tech/unit-6/WorkingWithCollections/WorkingWithCollections/bin/Debug/netcoreapp2.2/WorkingWithCollections.runtimeconfig.json
+/Users/admin/Desktop/Tech/unit-6/WorkingWithCollections/WorkingWithCollections/bin/Debug/netcoreapp2.2/WorkingWithCollections.runtimeconfig.dev.json
+/Users/admin/Desktop/Tech/unit-6/WorkingWithCollections/WorkingWithCollections/bin/Debug/netcoreapp2.2/WorkingWithCollections.dll
+/Users/admin/Desktop/Tech/unit-6/WorkingWithCollections/WorkingWithCollections/bin/Debug/netcoreapp2.2/WorkingWithCollections.pdb
+/Users/admin/Desktop/Tech/unit-6/WorkingWithCollections/WorkingWithCollections/obj/Debug/netcoreapp2.2/WorkingWithCollections.csprojAssemblyReference.cache
+/Users/admin/Desktop/Tech/unit-6/WorkingWithCollections/WorkingWithCollections/obj/Debug/netcoreapp2.2/WorkingWithCollections.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/Tech/unit-6/WorkingWithCollections/WorkingWithCollections/obj/Debug/netcoreapp2.2/WorkingWithCollections.AssemblyInfoInputs.cache
+/Users/admin/Desktop/Tech/unit-6/WorkingWithCollections/WorkingWithCollections/obj/Debug/netcoreapp2.2/WorkingWithCollections.AssemblyInfo.cs
+/Users/admin/Desktop/Tech/unit-6/WorkingWithCollections/WorkingWithCollections/obj/Debug/netcoreapp2.2/WorkingWithCollections.dll
+/Users/admin/Desktop/Tech/unit-6/WorkingWithCollections/WorkingWithCollections/obj/Debug/netcoreapp2.2/WorkingWithCollections.pdb
