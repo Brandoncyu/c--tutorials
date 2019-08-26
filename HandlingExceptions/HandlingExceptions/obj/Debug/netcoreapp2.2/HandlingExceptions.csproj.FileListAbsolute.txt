@@ -1,0 +1,11 @@
+/Users/admin/Desktop/Tech/unit-6/HandlingExceptions/HandlingExceptions/bin/Debug/netcoreapp2.2/HandlingExceptions.deps.json
+/Users/admin/Desktop/Tech/unit-6/HandlingExceptions/HandlingExceptions/bin/Debug/netcoreapp2.2/HandlingExceptions.runtimeconfig.json
+/Users/admin/Desktop/Tech/unit-6/HandlingExceptions/HandlingExceptions/bin/Debug/netcoreapp2.2/HandlingExceptions.runtimeconfig.dev.json
+/Users/admin/Desktop/Tech/unit-6/HandlingExceptions/HandlingExceptions/bin/Debug/netcoreapp2.2/HandlingExceptions.dll
+/Users/admin/Desktop/Tech/unit-6/HandlingExceptions/HandlingExceptions/bin/Debug/netcoreapp2.2/HandlingExceptions.pdb
+/Users/admin/Desktop/Tech/unit-6/HandlingExceptions/HandlingExceptions/obj/Debug/netcoreapp2.2/HandlingExceptions.csprojAssemblyReference.cache
+/Users/admin/Desktop/Tech/unit-6/HandlingExceptions/HandlingExceptions/obj/Debug/netcoreapp2.2/HandlingExceptions.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/Tech/unit-6/HandlingExceptions/HandlingExceptions/obj/Debug/netcoreapp2.2/HandlingExceptions.AssemblyInfoInputs.cache
+/Users/admin/Desktop/Tech/unit-6/HandlingExceptions/HandlingExceptions/obj/Debug/netcoreapp2.2/HandlingExceptions.AssemblyInfo.cs
+/Users/admin/Desktop/Tech/unit-6/HandlingExceptions/HandlingExceptions/obj/Debug/netcoreapp2.2/HandlingExceptions.dll
+/Users/admin/Desktop/Tech/unit-6/HandlingExceptions/HandlingExceptions/obj/Debug/netcoreapp2.2/HandlingExceptions.pdb
