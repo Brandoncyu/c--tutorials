@@ -1,0 +1,10 @@
+/Users/admin/Desktop/Tech/unit-6/AssembliesAndNameSpaces/AssembliesAndNameSpaces/bin/Release/netcoreapp2.2/AssembliesAndNameSpaces.deps.json
+/Users/admin/Desktop/Tech/unit-6/AssembliesAndNameSpaces/AssembliesAndNameSpaces/bin/Release/netcoreapp2.2/AssembliesAndNameSpaces.runtimeconfig.json
+/Users/admin/Desktop/Tech/unit-6/AssembliesAndNameSpaces/AssembliesAndNameSpaces/bin/Release/netcoreapp2.2/AssembliesAndNameSpaces.runtimeconfig.dev.json
+/Users/admin/Desktop/Tech/unit-6/AssembliesAndNameSpaces/AssembliesAndNameSpaces/bin/Release/netcoreapp2.2/AssembliesAndNameSpaces.dll
+/Users/admin/Desktop/Tech/unit-6/AssembliesAndNameSpaces/AssembliesAndNameSpaces/bin/Release/netcoreapp2.2/AssembliesAndNameSpaces.pdb
+/Users/admin/Desktop/Tech/unit-6/AssembliesAndNameSpaces/AssembliesAndNameSpaces/obj/Release/netcoreapp2.2/AssembliesAndNameSpaces.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/Tech/unit-6/AssembliesAndNameSpaces/AssembliesAndNameSpaces/obj/Release/netcoreapp2.2/AssembliesAndNameSpaces.AssemblyInfoInputs.cache
+/Users/admin/Desktop/Tech/unit-6/AssembliesAndNameSpaces/AssembliesAndNameSpaces/obj/Release/netcoreapp2.2/AssembliesAndNameSpaces.AssemblyInfo.cs
+/Users/admin/Desktop/Tech/unit-6/AssembliesAndNameSpaces/AssembliesAndNameSpaces/obj/Release/netcoreapp2.2/AssembliesAndNameSpaces.dll
+/Users/admin/Desktop/Tech/unit-6/AssembliesAndNameSpaces/AssembliesAndNameSpaces/obj/Release/netcoreapp2.2/AssembliesAndNameSpaces.pdb

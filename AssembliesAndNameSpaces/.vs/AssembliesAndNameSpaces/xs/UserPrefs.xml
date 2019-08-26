@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{ADBB3714-33E1-4A30-9982-CCB10B8EBAB0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AssembliesAndNameSpaces/Program.cs">
+    <Files>
+      <File FileName="AssembliesAndNameSpaces/Program.cs" Line="19" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AssembliesAndNameSpaces" expanded="True">
+            <Node name="AssembliesAndNameSpaces" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AssembliesAndNameSpaces PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
