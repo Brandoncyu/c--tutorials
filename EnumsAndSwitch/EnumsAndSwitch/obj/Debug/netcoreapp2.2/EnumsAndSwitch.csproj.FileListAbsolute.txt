@@ -1,0 +1,11 @@
+/Users/admin/Desktop/Tech/unit-6/EnumsAndSwitch/EnumsAndSwitch/bin/Debug/netcoreapp2.2/EnumsAndSwitch.deps.json
+/Users/admin/Desktop/Tech/unit-6/EnumsAndSwitch/EnumsAndSwitch/bin/Debug/netcoreapp2.2/EnumsAndSwitch.runtimeconfig.json
+/Users/admin/Desktop/Tech/unit-6/EnumsAndSwitch/EnumsAndSwitch/bin/Debug/netcoreapp2.2/EnumsAndSwitch.runtimeconfig.dev.json
+/Users/admin/Desktop/Tech/unit-6/EnumsAndSwitch/EnumsAndSwitch/bin/Debug/netcoreapp2.2/EnumsAndSwitch.dll
+/Users/admin/Desktop/Tech/unit-6/EnumsAndSwitch/EnumsAndSwitch/bin/Debug/netcoreapp2.2/EnumsAndSwitch.pdb
+/Users/admin/Desktop/Tech/unit-6/EnumsAndSwitch/EnumsAndSwitch/obj/Debug/netcoreapp2.2/EnumsAndSwitch.csprojAssemblyReference.cache
+/Users/admin/Desktop/Tech/unit-6/EnumsAndSwitch/EnumsAndSwitch/obj/Debug/netcoreapp2.2/EnumsAndSwitch.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/Tech/unit-6/EnumsAndSwitch/EnumsAndSwitch/obj/Debug/netcoreapp2.2/EnumsAndSwitch.AssemblyInfoInputs.cache
+/Users/admin/Desktop/Tech/unit-6/EnumsAndSwitch/EnumsAndSwitch/obj/Debug/netcoreapp2.2/EnumsAndSwitch.AssemblyInfo.cs
+/Users/admin/Desktop/Tech/unit-6/EnumsAndSwitch/EnumsAndSwitch/obj/Debug/netcoreapp2.2/EnumsAndSwitch.dll
+/Users/admin/Desktop/Tech/unit-6/EnumsAndSwitch/EnumsAndSwitch/obj/Debug/netcoreapp2.2/EnumsAndSwitch.pdb
